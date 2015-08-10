@@ -3,7 +3,7 @@ A Responsive Screenshot Tool
 
 ### Screenshot
 
-![Craptor](Craptor.gif)
+![Craptor for Windows](assets/windows.gif)
 
 
 ### Downloads
