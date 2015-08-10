@@ -1,12 +1,11 @@
-# Craptor
-A Responsive Screenshot Tool
+![Craptor](assets/icon.png)
 
-### Screenshot
+## Screenshots
 
-![Craptor for Windows](assets/windows.gif)
+##### Windows
+![Craptor for Windows](assets/screenshots/windows.gif)
 
-
-### Downloads
+## Downloads
 
 - [**v1.0.0**](https://github.com/Kristories/Craptor/releases/tag/v1.0.0)
   - Linux : [32bit](https://github.com/Kristories/Craptor/releases/download/v1.0.0/craptor-linux-32bit.tar.gz) / [64bit](https://github.com/Kristories/Craptor/releases/download/v1.0.0/craptor-linux-64bit.tar.gz)
