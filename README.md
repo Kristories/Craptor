@@ -2,6 +2,9 @@
 
 ## Screenshots
 
+##### Mac
+![Craptor for Mac](assets/screenshots/mac.gif)
+
 ##### Windows
 ![Craptor for Windows](assets/screenshots/windows.gif)
 
